@@ -2555,9 +2555,9 @@ h1.page-title.mb- {
     text-align:center
 }
 .author-profile .profile {
-    display:inline-block;
-    width:70px;
-    height:70px
+    display:inline-block !important;
+    width:70px !important;
+    height:70px !important
 }
 .author-profile .profile img {
     /* max-width:100%;
