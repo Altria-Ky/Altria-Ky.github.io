@@ -703,7 +703,7 @@ input:-webkit-autofill {
     background:#444;
     color:#fff
 }
-article,aside,details,figcaption,figure,footer,header,main,menu,nav,summary {
+article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary {
     display:block
 }
 audio,canvas,progress,video {
@@ -717,11 +717,11 @@ audio:not([controls]) {
 [hidden],template {
     display:none
 }
-/* a {
+a {
     background-color:transparent;
     text-decoration:none;
     cursor:url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cursor/ayuda.cur),auto
-} */
+}
 a:active,a:hover {
     outline:0
 }
@@ -924,12 +924,12 @@ big {
 html {
     box-sizing:border-box
 }
-/* * {
+* {
     box-sizing:border-box
-} */
-/* *:before,*:after {
+}
+*:before,*:after {
     box-sizing:inherit
-} */
+}
 body {
     background:#fff;
     background-attachment:fixed;
@@ -966,10 +966,10 @@ dt {
 dd {
     margin:0 1.5em 1.5em
 }
-/* img {
+img {
     height:auto;
     max-width:100%
-} */
+}
 table {
     margin:0 0 1.5em;
     width:100%
@@ -1013,13 +1013,13 @@ textarea {
     width:100%;
     color:#a5a5a5
 }
-/* a {
+a {
     color:#e67474;
     outline:0;
     -webkit-transition:color .2s ease-out,border .2s ease-out,opacity .2s ease-out;
     -moz-transition:color .2s ease-out,border .2s ease-out,opacity .2s ease-out;
     transition:color .2s ease-out,border .2s ease-out,opacity .2s ease-out
-} */
+}
 a:hover,a:focus,a:active {
     color:orange
 }
@@ -2546,11 +2546,11 @@ h1.page-title.mb- {
 }.post-squares.post-squares-featured {
     height:250px
 }
-/* .author-profile {
+.author-profile {
     padding:30px 12.78%;
     text-align:center
-} */
-/* .author-profile .info {
+}
+.author-profile .info {
     overflow:hidden;
     text-align:center
 }
@@ -2558,14 +2558,14 @@ h1.page-title.mb- {
     display:inline-block;
     width:70px;
     height:70px
-} */
-/* .author-profile .profile img {
+}
+.author-profile .profile img {
     max-width:100%;
     border-radius:100%;
     padding:3px;
     border:1px solid #ddd
-} */
-/* .author-profile hr {
+}
+.author-profile hr {
     width:50%;
     height:0;
     margin:0
@@ -2604,7 +2604,7 @@ h1.page-title.mb- {
     float:none;
     margin-right:10px;
     font-size:16px
-} */
+}
 .mashiro-profile {
     color:#7a7b7c;
     text-align:left;
@@ -4752,9 +4752,9 @@ i.iconfont.down {
         float:none;
         font-size:12px
     }
-    /* .author-profile {
+    .author-profile {
         display:none
-    } */
+    }
     .site-footer {
         padding:30px
     }
@@ -4850,9 +4850,9 @@ h3#comments-list-title,nav#comments-navi {
     width:250px;
     transition:all .3s ease
 }
-/* .wrapper section {
+.wrapper section {
     /*max-width:600px*/
-} */
+}
 .wrapper section h1 {
     font-weight:300;
     font-size:30px;
