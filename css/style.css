@@ -966,10 +966,10 @@ dt {
 dd {
     margin:0 1.5em 1.5em
 }
-img {
+/* img {
     height:auto;
     max-width:100%
-}
+} */
 table {
     margin:0 0 1.5em;
     width:100%
@@ -2546,11 +2546,11 @@ h1.page-title.mb- {
 }.post-squares.post-squares-featured {
     height:250px
 }
-.author-profile {
+/* .author-profile {
     padding:30px 12.78%;
     text-align:center
-}
-.author-profile .info {
+} */
+/* .author-profile .info {
     overflow:hidden;
     text-align:center
 }
@@ -2558,14 +2558,14 @@ h1.page-title.mb- {
     display:inline-block;
     width:70px;
     height:70px
-}
+} */
 /* .author-profile .profile img {
     max-width:100%;
     border-radius:100%;
     padding:3px;
     border:1px solid #ddd
 } */
-.author-profile hr {
+/* .author-profile hr {
     width:50%;
     height:0;
     margin:0
@@ -2604,7 +2604,7 @@ h1.page-title.mb- {
     float:none;
     margin-right:10px;
     font-size:16px
-}
+} */
 .mashiro-profile {
     color:#7a7b7c;
     text-align:left;
