@@ -2563,8 +2563,8 @@ h1.page-title.mb- {
     max-width:100%;
     border-radius:100%;
     padding:3px;
-    border:1px solid #ddd
-    background-image:url("https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/other/disqus-preloader.svg");
+    border:1px solid #ddd;
+    background-image:url("/images/cover/saber.jpg");
 }
 .author-profile hr {
     width:50%;
