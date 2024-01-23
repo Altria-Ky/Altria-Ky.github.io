@@ -717,11 +717,11 @@ audio:not([controls]) {
 [hidden],template {
     display:none
 }
-a {
+/* a {
     background-color:transparent;
     text-decoration:none;
     cursor:url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cursor/ayuda.cur),auto
-}
+} */
 a:active,a:hover {
     outline:0
 }
@@ -1013,13 +1013,13 @@ textarea {
     width:100%;
     color:#a5a5a5
 }
-a {
+/* a {
     color:#e67474;
     outline:0;
     -webkit-transition:color .2s ease-out,border .2s ease-out,opacity .2s ease-out;
     -moz-transition:color .2s ease-out,border .2s ease-out,opacity .2s ease-out;
     transition:color .2s ease-out,border .2s ease-out,opacity .2s ease-out
-}
+} */
 a:hover,a:focus,a:active {
     color:orange
 }
