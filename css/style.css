@@ -703,7 +703,7 @@ input:-webkit-autofill {
     background:#444;
     color:#fff
 }
-article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary {
+article,aside,details,figcaption,figure,footer,header,main,menu,nav,summary {
     display:block
 }
 audio,canvas,progress,video {
