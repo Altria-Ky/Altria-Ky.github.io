@@ -1061,7 +1061,7 @@ a:hover,a:active {
     animation-duration:.5s;
     -webkit-animation:fade-in .5s
 }
-#bgvideo {
+/* #bgvideo {
     position:absolute;
     top:0;
     left:0;
@@ -1070,8 +1070,8 @@ a:hover,a:active {
     min-width:99.999%;
     min-height:550px;
     z-index:0
-}
-#video-btn,#video-add {
+} */
+/* #video-btn,#video-add {
     position:absolute;
     bottom:3px;
     right:5px;
@@ -1086,8 +1086,8 @@ a:hover,a:active {
     -webkit-animation:poi-face 10s linear infinite alternate;
     -o-animation:poi-face 10s linear infinite alternate;
     animation:poi-face 10s linear infinite alternate
-}
-#video-btn:hover,#video-add:hover {
+} */
+/* #video-btn:hover,#video-add:hover {
     opacity:1
 }
 .video-play,.loadvideo {
@@ -1118,7 +1118,7 @@ a:hover,a:active {
     -moz-transition:.4s ease all;
     -o-transition:.4s ease all;
     transition:.4s ease all
-}
+} */
 .pattern-center {
     position:relative;
     top:0;
